@@ -1,0 +1,9 @@
+{
+    "dropout_rate": 0.27151381667891106,
+    "weight_decay": 0.036021996577944505,
+    "lr_cnn": 0.00015,
+    "lr_vit": 0.0001,
+    "lr_classifier": 0.0001,
+    "cnn_freeze_layers": 10,
+    "vit_freeze_blocks": 8
+}
