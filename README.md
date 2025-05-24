@@ -1,4 +1,4 @@
-Overview
+- Overview
 This project builds a high-accuracy image classifier for cats and dogs using the same dataset Nyckel uses for their website. I wanted to delevop something smiliar but that can predict my cat with her cute pose with higher confidence level by using same dataset.
 
 But unlike Nyckel, this model:
