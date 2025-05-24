@@ -3,9 +3,9 @@ This project builds a high-accuracy image classifier for cats and dogs using the
 
 But unlike Nyckel, this model:
 
-Predicts dogs too, not just cats
-Achieves higher accuracy than Nyckel's own page
-Is quantized for fast inference with minimal performance drop
+- Predicts dogs too, not just cats
+- Achieves higher accuracy than Nyckel's own page
+- Also it is quantized for fast inference with minimal performance drop
 
 ### Some Technical Info
 - Oxford-IIIT Pet Dataset (https://www.kaggle.com/datasets/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
