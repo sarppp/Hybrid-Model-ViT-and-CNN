@@ -8,12 +8,12 @@ Achieves higher accuracy than Nyckel's own page
 Is quantized for fast inference with minimal performance drop
 
 ### Some Technical Info
-Oxford-IIIT Pet Dataset (https://www.kaggle.com/datasets/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
-CNN Backbone: ResNet34 (Pretrained)
-Transformer Component: ViT-Base (Pretrained)
-Dynamic quantization of both linear and conv layers
-Dynamic Quantization: Optimized for ARM and x86
-Reduced model size: ~431MB to ~175MB
+- Oxford-IIIT Pet Dataset (https://www.kaggle.com/datasets/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
+- CNN Backbone: ResNet34 (Pretrained)
+- Transformer Component: ViT-Base (Pretrained)
+- Dynamic quantization of both linear and conv layers
+- Dynamic Quantization: Optimized for ARM and x86
+- Reduced model size: ~431MB to ~175MB
 
 
 ## RESULT OF NYCKEL
